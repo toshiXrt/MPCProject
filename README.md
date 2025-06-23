@@ -26,3 +26,5 @@ Statesman:Tushar
 block 1: Jagdishpur
 <br>
 block 2: Kahalgaon
+<br>
+PR people awaited:
