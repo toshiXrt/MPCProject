@@ -14,3 +14,5 @@ Sourcing country : france
 sourcing destination: Bihar
 <br>
 district : awaiting, probably south eastern region
+<br>
+district: Bhagalpur
