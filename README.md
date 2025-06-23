@@ -22,3 +22,7 @@ Team : co-ed
 Lead:Aakash,Sawan
 <br>
 Statesman:Tushar
+<br>
+block 1: Jagdishpur
+<br>
+block 2: Kahalgaon
