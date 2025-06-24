@@ -37,4 +37,4 @@ Urdu Paper: Den news
 <br>
 Bengali : Bharti news
 <br>
-Omline Portals : the Print, Wire
+Online Portals : the Print, Wire
