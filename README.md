@@ -39,4 +39,4 @@ Bengali : Bharti news
 <br>
 Online Portals : the Print, Wire
 <br>
-Hotels: Taj Patna
+Hotels: Taj bhagalpur
