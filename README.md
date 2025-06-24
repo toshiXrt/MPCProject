@@ -40,3 +40,5 @@ Bengali : Bharti news
 Online Portals : the Print, Wire
 <br>
 Hotels: Taj bhagalpur
+<br>
+farmhouse: kariya
