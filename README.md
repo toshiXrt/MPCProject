@@ -32,4 +32,7 @@ PR people awaited:
 Hindi Papaers: Dainik Jagran , Hindustan , Dainik Bhaskar 
 <br>
 English Paper: Hindustan Times, TOI, Indian Express, The Hindu
-
+<br>
+Urdu Paper: Den news
+<br>
+Bengali : Bharti news
