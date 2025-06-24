@@ -36,3 +36,5 @@ English Paper: Hindustan Times, TOI, Indian Express, The Hindu
 Urdu Paper: Den news
 <br>
 Bengali : Bharti news
+<br>
+Omline Portals : the Print, Wire
