@@ -28,3 +28,7 @@ block 1: Jagdishpur
 block 2: Kahalgaon
 <br>
 PR people awaited:
+<br>
+Hindi Papaers: Dainik Jagran , Hindustan , Dainik Bhaskar 
+<br>
+English Paper: Hindustan Times, TOI, Indian Express, The Hindu
