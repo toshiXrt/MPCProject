@@ -40,3 +40,8 @@ Bengali : Bharti news
 Online Portals : the Print, Wire
 <br>
 Hotels: Taj bhagalpur
+<br>
+Private vehicles santioned 
+SUVs:Fortuner
+<br>
+sedans:Toyota Camry
