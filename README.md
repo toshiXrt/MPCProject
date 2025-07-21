@@ -41,7 +41,3 @@ Online Portals : the Print, Wire
 <br>
 Hotels: Taj bhagalpur
 <br>
-farmhouse: kariya
-<br>
-Vehicles sanctioned : Public transports
-
